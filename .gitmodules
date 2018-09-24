@@ -1,0 +1,3 @@
+[submodule "node_modules/vizio-smart-cast"]
+	path = node_modules/vizio-smart-cast
+	url = https://github.com/simonsickle/vizio-smart-cast
